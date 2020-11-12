@@ -7,6 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/alb_isma" target="blank"><img src="https://img.shields.io/twitter/follow/alb_isma?logo=twitter&style=for-the-badge" alt="alb_isma" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://ismailalabou.github.io/](https://ismailalabou.github.io/)
+
+- 📝 I regulary write articles on [http://www.ismailalabou.ml/](http://www.ismailalabou.ml/)
+
+- 📫 How to reach me **alabou.ismail@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tXADkry9ghsQPgsLbr87YzEArCNatqX5/view?usp=sharing](https://drive.google.com/file/d/1tXADkry9ghsQPgsLbr87YzEArCNatqX5/view?usp=sharing)
+
+- ⚡ Fun fact **coffee ☕️ over tea 🍵**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alb_isma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alb_isma" height="30" width="40" /></a>
@@ -25,6 +35,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailalabou&show_icons=true&locale=en&layout=compact" alt="ismailalabou" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismailalabou&show_icons=true&locale=en" alt="ismailalabou" /></p>
+
 
 <!--### Hi there 👋
 Portfolio : https://ismailalabou.github.io/-->
