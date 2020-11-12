@@ -1,12 +1,11 @@
 ### Hi there 👋, I'm Ismail ALABOU - [portfolio]
 
-[![portfolio](https://img.shields.io/website?label=ismailalabou.ml&style=for-the-badge&url=https%3A%2F%2Fismailalabou.ml)](http://www.ismailalabou.ml/)
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fportfolio)](https://ismailalabou.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alb_isma?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falb_isma&screen_name=ismailalabou)
 
 ## I'm a Student !!
 
-- 🔭 I just launched my first Portfolio: [course]
+- 🔭 I just launched my first Portfolio: [portfolio]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
