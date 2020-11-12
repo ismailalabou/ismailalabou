@@ -1,11 +1,11 @@
-### Hi there 👋, I'm Ismail ALABOU - [website]
+### Hi there 👋, I'm Ismail ALABOU - [Portfolio]
 
 [![Website](https://img.shields.io/website?label=ismailalabou.ml&style=for-the-badge&url=https%3A%2F%2Fismailalabou.ml)](http://www.ismailalabou.ml/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alb_isma?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falb_isma&screen_name=ismailalabou)
 
 ## I'm a Student, Developer, & Gamer!!
 
-- 🔭 I just launched my first Portfolio: [course]
+- 🔭 I just launched my first Portfolio: [Portfolio]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -98,7 +98,8 @@
 </details>
 
 [website]: http://www.ismailalabou.ml/
-[course]: https://ismailalabou.github.io/
+[course]: 
+[portfolio]: https://ismailalabou.github.io/
 [twitter]: https://twitter.com/alb_isma
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
