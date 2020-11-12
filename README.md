@@ -5,7 +5,7 @@
 
 ## I'm a Student, Developer, & Gamer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my first Portfolio: [course]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -98,7 +98,7 @@
 </details>
 
 [website]: http://www.ismailalabou.ml/
-[course]: 
+[course]: https://ismailalabou.github.io/
 [twitter]: https://twitter.com/alb_isma
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
