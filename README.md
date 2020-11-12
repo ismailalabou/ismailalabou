@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ismail ALABOU - [portfolio]</h1>
+<h1 align="center">Hi 👋, I'm Ismail ALABOU</h1>
 <h3 align="center">A SOFTWARE ENGINEERING STUDENT.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailalabou&label=Profile%20views&color=0e75b6&style=flat" alt="ismailalabou" /> </p>
@@ -25,8 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailalabou&show_icons=true&locale=en&layout=compact" alt="ismailalabou" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismailalabou&show_icons=true&locale=en" alt="ismailalabou" /></p>
-
-Portfolio : https://ismailalabou.github.io/
 
 <!--### Hi there 👋
 Portfolio : https://ismailalabou.github.io/-->
