@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ismailalabou.github.io/](https://ismailalabou.github.io/)
 
-- 📝 I regulary write articles on [http://www.ismailalabou.ml/](http://www.ismailalabou.ml/)
+- 📝 I regulary write articles on [https://alabou-ismail.medium.com/](http://www.ismailalabou.ml/)
 
 - 📫 How to reach me **alabou.ismail@gmail.com**
 
