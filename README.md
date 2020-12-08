@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismail ALABOU</h1>
 <h3 align="center">A SOFTWARE ENGINEERING STUDENT.</h3>
-![Image](https://drive.google.com/file/d/1DT-unTuTcW4o5P44H8cqxwXiKNpAZgLJ/preview)
+<img src="https://cdn1.bbcode0.com/uploads/2020/12/9/590b5d08c3687e51be511d2da4bcabd0-full.png" alt="octocat" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailalabou&label=Profile%20views&color=0e75b6&style=flat" alt="ismailalabou" /> </p>
 
