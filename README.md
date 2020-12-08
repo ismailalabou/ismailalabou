@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail ALABOU</h1>
 <h3 align="center">A SOFTWARE ENGINEERING STUDENT.</h3>
-<img src="https://imgur.com/WQWArmK" alt="octocat" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailalabou&label=Profile%20views&color=0e75b6&style=flat" alt="ismailalabou" /> </p>
 
@@ -17,6 +16,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tXADkry9ghsQPgsLbr87YzEArCNatqX5/view?usp=sharing](https://drive.google.com/file/d/1tXADkry9ghsQPgsLbr87YzEArCNatqX5/view?usp=sharing)
 
 - ⚡ Fun fact **coffee ☕️ over tea 🍵**
+
+![Image octocat](https://imgur.com/WQWArmK)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
