@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **coffee ☕️ over tea 🍵**
 
-![Image octocat](https://imgur.com/WQWArmK)
+![Image octocat](https://i.imgur.com/WQWArmK.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
