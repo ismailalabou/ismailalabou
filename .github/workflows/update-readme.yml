@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v1.0
-      - uses: ismailalabou/ismailalabou@main
+      - uses: actions/checkout@v2
+      - uses: ismailalabou/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
