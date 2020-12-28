@@ -53,11 +53,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/jamesgeorge007/scaffold-static/pull/30) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-2. 🎉 Merged PR [#214](https://github.com/madlabsinc/mevn-cli/pull/214) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-3. 💪 Opened PR [#214](https://github.com/madlabsinc/mevn-cli/pull/214) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-4. 🎉 Merged PR [#31](https://github.com/jamesgeorge007/scaffold-static/pull/31) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-5. 💪 Opened PR [#31](https://github.com/jamesgeorge007/scaffold-static/pull/31) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+1. ❌ Closed PR [#9](https://github.com/actions/hello-world-docker-action/pull/9) in [actions/hello-world-docker-action](https://github.com/actions/hello-world-docker-action)
+2. 🗣 Commented on [#9](https://github.com/actions/hello-world-docker-action/issues/9) in [actions/hello-world-docker-action](https://github.com/actions/hello-world-docker-action)
+3. 💪 Opened PR [#9](https://github.com/actions/hello-world-docker-action/pull/9) in [actions/hello-world-docker-action](https://github.com/actions/hello-world-docker-action)
+4. ❌ Closed PR [#284](https://github.com/saadpasta/developerFolio/pull/284) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
+5. 💪 Opened PR [#284](https://github.com/saadpasta/developerFolio/pull/284) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
 <!--END_SECTION:activity-->
 
 ---
