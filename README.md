@@ -37,6 +37,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismailalabou&show_icons=true&locale=en" alt="ismailalabou" /></p>
 
 <img src="https://i.imgur.com/WQWArmK.png" alt="octocat" />
+<img src="https://imgur.com/8eUfA8A.png" alt="githubwrapped" />
 
 ### Hi there 👋
 
