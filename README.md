@@ -19,6 +19,8 @@
 
 - 🔭 I’m currently working on  [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/alb_isma/my-stack)
 
+<a frameborder="0" data-theme="dark" data-layers="2,1,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/eb3da9796303afa7b2b6d06e37f0bb"/></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alb_isma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alb_isma" height="30" width="40" /></a>
