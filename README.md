@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **coffee ☕️ over tea 🍵**
 
-- 🔭 I’m currently working on [react]
+- 🔭 I’m currently working on [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/alb_isma/my-stack)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
