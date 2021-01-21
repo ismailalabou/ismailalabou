@@ -45,7 +45,7 @@
 
 <img src="https://i.imgur.com/WQWArmK.png" alt="octocat" />
 <img src="https://i.imgur.com/Ba1sd56.png" alt="githubwrapped" />
-
+<!--
 ### Hi there 👋
 
 I'm James. I love building utilities aimed at increasing Developer productivity :raised_hands: 
@@ -69,7 +69,7 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 <!--END_SECTION:activity-->
 
 ---
-
+-->
 <!--
 **jamesgeorge007/jamesgeorge007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
