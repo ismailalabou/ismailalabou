@@ -19,11 +19,6 @@
 
 - 🔭 I’m currently working on [M.E.R.N] stack
 
-<!--
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/alb_isma/my-stack)
---><!--
-<a frameborder="0" data-theme="dark" data-layers="2,1,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/eb3da9796303afa7b2b6d06e37f0bb"/></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>-->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alb_isma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alb_isma" height="30" width="40" /></a>
@@ -45,31 +40,8 @@
 
 <img src="https://i.imgur.com/WQWArmK.png" alt="octocat" />
 <img src="https://i.imgur.com/Ba1sd56.png" alt="githubwrapped" />
-<!--
-### Hi there 👋
 
-I'm James. I love building utilities aimed at increasing Developer productivity :raised_hands: 
 
-🔭 I’m currently working on [MEVN-CLI](https://github.com/madlabsinc/mevn-cli)
-
-📫 How to reach me:
-
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/james_madhacks) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jamesgeorge007)
-
----
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/actions/hello-world-docker-action/pull/9) in [actions/hello-world-docker-action](https://github.com/actions/hello-world-docker-action)
-2. 🗣 Commented on [#9](https://github.com/actions/hello-world-docker-action/issues/9) in [actions/hello-world-docker-action](https://github.com/actions/hello-world-docker-action)
-3. 💪 Opened PR [#9](https://github.com/actions/hello-world-docker-action/pull/9) in [actions/hello-world-docker-action](https://github.com/actions/hello-world-docker-action)
-4. ❌ Closed PR [#284](https://github.com/saadpasta/developerFolio/pull/284) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
-5. 💪 Opened PR [#284](https://github.com/saadpasta/developerFolio/pull/284) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
-<!--END_SECTION:activity-->
-
----
--->
 <!--
 **jamesgeorge007/jamesgeorge007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
