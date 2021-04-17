@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **coffee ☕️ over tea 🍵**
 
-- 🔭 I’m currently working on [M.E.R.N] stack, [spring] boot + frameworks & [Docker compose]
+- 🔭 I’m currently working on [M.E.R.N] stack, [spring] boot, [spring] frameworks & [Docker compose]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
